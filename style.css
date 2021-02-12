@@ -11,15 +11,6 @@ body {
     font-style: normal;
 }
 
-@font-face {
-    font-family: 'robotolight';
-    src: url('webfontkit-20210211-231307/roboto-light-webfont.woff2') format('woff2'),
-         url('roboto-light-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
 
 @font-face {
     font-family: 'robotothin';
